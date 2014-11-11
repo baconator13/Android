@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BaconFinal</string>
+    <string name="action_settings">Settings</string>
+    <string name="selectProgramLabel">Select Your Program</string>
+    <string name="africa">Africa &amp; Middle East:</string>
+    <string name="asia">Asia:</string>
+    <string name="europe">Europe:</string>
+    <string name="moroccoUniversity">AlAkhawayn University</string>
+    <string name="selectTab">Program</string>
+    <string name="exploreTab">Explore</string>
+    <string name="addTab">add</string>
+    <string name="addLabel">Add</string>
+    <string name="email">Email</string>
+    <string name="review">Review</string>
+    <string name="greece">The American College of Thessaloniki</string>
+    <string name="mapTab">map</string>
+    <string name="learn">Learn</string>
+    <string name="japan">Sophia University, Tokyo</string>
+    <string name="noNetworkError">Network Error</string>
+    <string name="unknown">Unknown</string>
+    <string name="learnTab">learn</string>
+    <string name="eaglesabroad">Eagles Abroad!</string>
+    <string name="AU">AU</string>
+    <string name="SUT">SUT</string>
+    <string name="ACT">ACT</string>
+    <string name="addButton">Add My Review!</string>
+    <string name="addReviewLabel">Add My Review</string>
+    <string name="noReview">Sorry, no reviews available.</string>
+
+</resources>
